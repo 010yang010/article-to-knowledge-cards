@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Knowledge card icon">
+  <rect x="8" y="12" width="48" height="40" rx="6" fill="#2563EB"/>
+  <path d="M8 18a6 6 0 0 1 6-6h36a6 6 0 0 1 6 6v6H8z" fill="#1D4ED8"/>
+  <rect x="16" y="30" width="32" height="4" rx="2" fill="#FFFFFF"/>
+  <rect x="16" y="38" width="24" height="4" rx="2" fill="#DBEAFE"/>
+  <rect x="16" y="46" width="20" height="4" rx="2" fill="#DBEAFE"/>
+</svg>
